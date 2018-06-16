@@ -22,8 +22,9 @@
   },
   "dependencies": {
     "fbjs": "^0.8.16",
+    "hoek": "^5.0.3",
     "react": "^16.3.1",
-    "react-native": "^0.55.3",
+    "react-native": "^0.55.4",
     "react-native-firebase": "^4.1.0"
   }
 }
